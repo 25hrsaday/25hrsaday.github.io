@@ -3,7 +3,7 @@ title: ThinkingManchine
 SEOTitle: 25H的博客 | ThinkingManchine
 header-img: img/post-bg-desk.jpg
 email: 1548915175@qq.com
-description: "Boring is best."
+description: " Boring is best."
 keyword: " 25H "
 url: "http://25Hrsaday.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
- disqus_username: 25hrsaday
+disqus_username: 25hrsaday
 
 # Gitalk
 gitalk:
